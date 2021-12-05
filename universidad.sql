@@ -19,6 +19,7 @@ CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
 -- -----------------------------------------------------
 -- Schema universidad
 -- -----------------------------------------------------
+create table hola;
 CREATE SCHEMA IF NOT EXISTS `universidad` DEFAULT CHARACTER SET utf8 COLLATE utf8_spanish_ci ;
 USE `mydb` ;
 
